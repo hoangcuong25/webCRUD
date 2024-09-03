@@ -1,0 +1,70 @@
+header{
+background-color: green;
+padding: 20px;
+text-align: center;
+height: 120px;
+}
+#admin{background-color: #666fd2}
+nav{
+	height: 100px;
+    background-color: #666fd2;
+}
+
+main{
+	background-color: pink;
+	height: 3500px;
+	}
+
+
+footer{
+	background-color: grey;
+	
+}
+#menu li {
+color: #f1f1f1;
+float: left;
+width: 120px;
+height: 40px;
+line-height: 40px;
+}
+#menu ul {
+background: #1F568B;
+list-style-type: none;
+overflow: hidden;
+width: 100%;
+}
+#menu a {
+text-decoration: none;
+color: #fff;
+display: block;
+}
+#menu a:hover {
+background: #F1F1F1;
+color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    background-color:aqua ;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    
+}
